@@ -1,0 +1,20 @@
+<updates>
+	<update>
+		<name>system - GenEditor Plugin</name>
+		<description>Joomla plugin to hide or set a custom generator tag</description>
+		<element>geneditor</element>
+		<type>plugin</type>
+		<folder>system</folder>
+		<version>3.0.0</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/t0m0094/joomla_plugin-geneditor/releases/download/3.0.0/joomla_plugin-geneditor-v3.0.0.zip</downloadurl>
+		</downloads>
+		<maintainer>Tom Arns</maintainer>
+		<maintainerurl>https://tomarns.nl</maintainerurl>
+		<targetplatform name="joomla" version="3.[23456789]|10" />
+		<client>site</client>
+		<sha256>C84F0100EAD7BD531770C1D29456085144FB22CB8CC6E854CF2B4E5A8B12C7F6</sha256>
+		<sha384>49834D1E399254C03FF57BE87A80B6D89BA37D8076A6100330ECDD174DF9396E6C12666347A07345167633D32122FEB1</sha384>
+		<sha512>59A07E3C6263A6385EE788CAC2054123358C3CFA59880F940155DAE75F7FCD3E3666224991B2D2C4B4EC578D6C33969EBA26A7B4B7392AC72429B24342F0F430</sha512>
+	</update>
+</updates>
