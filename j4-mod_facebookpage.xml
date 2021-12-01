@@ -12,5 +12,6 @@
 		<maintainerurl>https://tomarns.nl</maintainerurl>
 		<targetplatform name="joomla" version="4.0" />
 		<client>site</client>
+		<sha512>9B89012BBBC073674D49A2A43B9F00CEAB0444C698098395ACF573FE4A4B59BDCF0BF1630997563E2AE40F0C40A3E0AB398DACE8D9048C357C0CC9BFA9283160</sha512>
 	</update>
 </updates>
